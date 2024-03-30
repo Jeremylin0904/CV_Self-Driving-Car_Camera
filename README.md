@@ -12,7 +12,7 @@ This ROS node implements lane following functionality for a robot as part of  se
 
 ## Usage
 1. Launch ROS core: `roscore`.
-2. Run the lane following node: `rosrun package_name lane_follow.py`[rosrun package_name lane_follow.py].
+2. Run the lane following node: `rosrun package_name lane_follow.py`(rosrun package_name lane_follow.py).
 3. The node will subscribe to the camera's raw image topic and start processing the images to control the robot's motion.
 
 ## Video Demonstration
