@@ -1,5 +1,5 @@
 # Self-driving car: Lane Following ROS Node
-
+![DEMO](cv_demo.gif)
 This ROS node implements lane following functionality for a robot as part of  self-driving tasks. It subscribes to the camera's raw image topic, processes the images to predict lane lines, and controls the robot's motion based on the predictions.
 
 ## Requirements
